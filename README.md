@@ -16,7 +16,7 @@
 ### 1. Tải mã nguồn từ GitHub
 
 ```bash
-git clone https://github.com/HoaiTam-K18/DoAn_IS210.git
+git clone https://github.com/TrungNQ2645/Quan_ly_kho
 ```
 Hoặc vào GitHub → bấm nút Code → Download ZIP → Giải nén.
 
